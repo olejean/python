@@ -8,3 +8,4 @@ while message != 'secret':
         break
     print('не правильный пассворд')
     print(password)
+    print

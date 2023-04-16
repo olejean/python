@@ -10,6 +10,9 @@ class JDPerson(Person):
     def __init__(self, name):
         self.name = name + ", Esquire"
 
+class Superhero(H)
+
+
 
 person = Person('Fudd')
 doctor = MDPerson('Fudd')
