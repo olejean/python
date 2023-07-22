@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 import collections
 plan = {'a': 1, 'b': 2, 'c': 3}
 print(plan)
